@@ -1,0 +1,23 @@
+@font-face {
+    font-family: shruti_font;
+    src: url(shruti.tff);
+}
+
+.shruti_font{
+	font-family: shruti_font;
+}
+
+.border{border:solid 1px black;}
+
+//margins
+.margin1{margin:1%;}
+.margin2{margin:2%;}
+.margin5{margin:5%;}
+.margin10{margin:10%;}
+
+
+.font1{font-size: 1em;}
+.font2{font-size: 2em;}
+.font5{font-size: 5em;}
+
+p{ font-size: 1.25em; }
